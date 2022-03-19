@@ -3,6 +3,19 @@
 
 
 
+## Functionalities implemented in our design
+### Adaptivtiy
+
+1. Auto branch switch according to the input videos:
+    - branch for cars
+    - branch for people
+
+2. Realtime adjustment of inference interval accoring to the platform status (e.g. fps, power and tempure):
+    - buff or not buff
+            
+3. Realtime 
+
+
 
 ## demo to show final resualt
 
